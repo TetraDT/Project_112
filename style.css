@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background:purple;
+}
+
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 4px;
+  }
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+label{
+  font-size: 14px;
+  color: lime;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+}
+button{
+    background-color: purple ;
+    border-color: purple ;
+
+}
+
+#result_gesture_name{
+  font-size: 30.31415926536px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
